@@ -11,7 +11,7 @@
 <img src="https://raw.githubusercontent.com/iomanker/1051_SchoolProject_Midterm_Introduction-to-Pattern-Recognition/master/images/result2.png" width="250">
 <img src="https://raw.githubusercontent.com/iomanker/1051_SchoolProject_Midterm_Introduction-to-Pattern-Recognition/master/images/result3.png" width="282">
 </div>
-* 簡報內容(由組員蕭郁霖製作)
+<ul><li>簡報內容(由組員蕭郁霖製作)</li></ul>
 <div style="display:flex;justify-content: center;">
 <img src="https://raw.githubusercontent.com/iomanker/1051_SchoolProject_Midterm_Introduction-to-Pattern-Recognition/master/PPT/page2.jpg" width="250">
 <img src="https://raw.githubusercontent.com/iomanker/1051_SchoolProject_Midterm_Introduction-to-Pattern-Recognition/master/PPT/page3.jpg" width="250">
